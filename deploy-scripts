@@ -1,1 +1,5 @@
 
+echo "This script will fail!"
+exit 1
+
+sudo service nginx restart
